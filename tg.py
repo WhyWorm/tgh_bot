@@ -5,7 +5,7 @@ import time
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = "ТВОЙ_ТОКЕН_ЗДЕСЬ"
+TOKEN = "8644503362:AAEPogfQT9w91J3lErAaqeGqMUEjEthZcFU"
 
 bot = Bot(token=TOKEN, parse_mode="HTML")
 dp = Dispatcher()
